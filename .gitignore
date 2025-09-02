@@ -1,0 +1,6 @@
+main
+event-bot
+laverdad-bot
+secrets/
+.env
+.DS_Store
